@@ -41,15 +41,13 @@ MongoDB Compass veya CLI kullanarak:
 `appsettings.json` dosyasındaki ayarların yerel MongoDB kurulumunuzla eşleştiğinden emin olun:
 
 ```json
-"MongoSettings": {
+{
+  "MongoSettings": {
     "ConnectionString": "mongodb://localhost:27017",
     "DatabaseName": "todo_db",
     "CollectionName": "todos"
-}```
-
-
-
-
+  }
+}
 
 
 Görseller :
