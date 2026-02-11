@@ -45,7 +45,7 @@ MongoDB Compass veya CLI kullanarak:
     "ConnectionString": "mongodb://localhost:27017",
     "DatabaseName": "todo_db",
     "CollectionName": "todos"
-}
+}```
 
 Görseller :
 <img width="1919" height="986" alt="Screenshot_4" src="https://github.com/user-attachments/assets/34fbad06-919d-4933-9587-dc7a576a88d7" />
