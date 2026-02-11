@@ -1,0 +1,32 @@
+﻿using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using MongoDB.Driver;
+using MongoTutorial.Entities;
+using MongoTutorial.Models;
+using MongoTutorial.Settings;
+
+namespace MongoTutorial.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly IMongoCollection<Todo> _todos;
+
+        public HomeController(IDatabaseSettings settings)
+        {
+            var client = new MongoClient(settings.ConnectionString);
+            var database = client.GetDatabase(settings.DatabaseName);
+
+            _todos = database.GetCollection<Todo>(settings.CollectionName);
+
+        }
+
+
+        public async Task<IActionResult> Index()
+        {
+            var todolar = await _todos.Find(x => true).ToListAsync();
+            return View(todolar);
+        }
+
+
+    }
+}

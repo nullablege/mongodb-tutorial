@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\settings\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\settings\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\settings\\idatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\settings\\idatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Home\\Guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MongoTutorial\\Views\\Home\\Guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\models\\updatetodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\models\\updatetodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Home\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MongoTutorial\\Views\\Home\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|c:\\users\\egenu\\source\\repos\\mongotutorial\\mongotutorial\\models\\createtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07FCA28-4ED0-4935-A01B-C6CC73FDED4E}|MongoTutorial\\MongoTutorial.csproj|solutionrelative:mongotutorial\\models\\createtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Settings\\IDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "MongoTutorial\\Settings\\IDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Settings\\IDatabaseSettings.cs",
+              "RelativeToolTip": "MongoTutorial\\Settings\\IDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:22:08.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Settings\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "MongoTutorial\\Settings\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Settings\\DatabaseSettings.cs",
+              "RelativeToolTip": "MongoTutorial\\Settings\\DatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T03:22:05.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MongoTutorial\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MongoTutorial\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:50:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Home\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "MongoTutorial\\Views\\Home\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Home\\Guncelle.cshtml",
+              "RelativeToolTip": "MongoTutorial\\Views\\Home\\Guncelle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T02:45:56.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Models\\UpdateTodoViewModel.cs",
+              "RelativeDocumentMoniker": "MongoTutorial\\Models\\UpdateTodoViewModel.cs",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Models\\UpdateTodoViewModel.cs",
+              "RelativeToolTip": "MongoTutorial\\Models\\UpdateTodoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:43:20.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MongoTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MongoTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T02:39:56.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Home\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "MongoTutorial\\Views\\Home\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Home\\Ekle.cshtml",
+              "RelativeToolTip": "MongoTutorial\\Views\\Home\\Ekle.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T02:20:54.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MongoTutorial\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MongoTutorial\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T02:17:38.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Models\\CreateTodoViewModel.cs",
+              "RelativeDocumentMoniker": "MongoTutorial\\Models\\CreateTodoViewModel.cs",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Models\\CreateTodoViewModel.cs",
+              "RelativeToolTip": "MongoTutorial\\Models\\CreateTodoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:22:14.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Program.cs",
+              "RelativeDocumentMoniker": "MongoTutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Program.cs",
+              "RelativeToolTip": "MongoTutorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T01:54:14.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\appsettings.json",
+              "RelativeDocumentMoniker": "MongoTutorial\\appsettings.json",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\appsettings.json",
+              "RelativeToolTip": "MongoTutorial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-11T01:51:27.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Entities\\Todo.cs",
+              "RelativeDocumentMoniker": "MongoTutorial\\Entities\\Todo.cs",
+              "ToolTip": "C:\\Users\\Egenu\\source\\repos\\MongoTutorial\\MongoTutorial\\Entities\\Todo.cs",
+              "RelativeToolTip": "MongoTutorial\\Entities\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T01:48:55.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

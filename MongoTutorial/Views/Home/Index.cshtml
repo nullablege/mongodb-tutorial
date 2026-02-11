@@ -1,0 +1,69 @@
+﻿@model List<MongoTutorial.Entities.Todo>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<html>
+    <head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+
+
+<body>
+
+    
+<div class="container">
+
+    <div class="row">
+        <div class="col-lg-12">
+                <table class="table table-bordered">
+                                        
+                    <thead>
+                        <th>Görev Başlığı</th>
+                        <th>Görev Oluşturulma Zamanı</th>
+                        <th>Görev Durumu Değiştir</th>
+                        <th>Görevi Sil</th>
+                        <th>Görevi Duzenle</th>
+                    </thead>
+                @foreach (var x in Model)
+                {
+
+
+                        <tbody>
+                            
+                            <tr style="background:@(x.isDone ? "red" : "green")">
+                                <td>@x.title</td>
+                                <td>@x.createdAt.ToString("D")</td>
+                                @if (x.isDone)
+                                {
+                                    <td>
+                                        <a class="btn btn-danger" href="/Home/Tamamlanmadi/@x.TodoId">Tamamlanmadı işaretle</a>
+                                    </td>
+                                }
+                                @if (!x.isDone)
+                                {
+                                    <td>
+                                        <a class="btn btn-success" href="/Home/Tamamlandi/@x.TodoId">Tamamlandı İşaretle</a>
+                                    </td>
+                                }
+                                <td>
+                                    <a class="btn btn-info" href="/Home/Sil/@x.TodoId">Görevi Sil</a>
+                                </td>
+                                <td>
+                                    <a class="btn btn-info" href="/Home/Guncelle/@x.TodoId">Görevi Düzenle</a>
+                                </td>
+                            </tr>
+                        </tbody>
+
+                   
+                }
+                </table>
+        </div>
+    </div>
+</div>
+<a href="/Home/Ekle">Yeni Görev Ekle</a>
+</body>
+</html>
