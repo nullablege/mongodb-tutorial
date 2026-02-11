@@ -37,6 +37,11 @@ MongoDB Compass veya CLI kullanarak:
 2.  `todo_db` adında bir veritabanı oluşturun.
 3.  Bu veritabanı altında `todos` adında bir collection (tablo) oluşturun.
 
+Görseller :
+<img width="1919" height="986" alt="Screenshot_4" src="https://github.com/user-attachments/assets/34fbad06-919d-4933-9587-dc7a576a88d7" />
+<img width="1911" height="987" alt="Screenshot_3" src="https://github.com/user-attachments/assets/67b33dc8-e68f-4771-b4c1-396888e48669" />
+<img width="1916" height="990" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ad46fcca-c65d-4dcb-8fe0-2831b3a6252c" />
+
 ### 3. Konfigürasyon
 `appsettings.json` dosyasındaki ayarların yerel MongoDB kurulumunuzla eşleştiğinden emin olun:
 
@@ -50,8 +55,5 @@ MongoDB Compass veya CLI kullanarak:
 }
 
 
-Görseller :
-<img width="1919" height="986" alt="Screenshot_4" src="https://github.com/user-attachments/assets/34fbad06-919d-4933-9587-dc7a576a88d7" />
-<img width="1911" height="987" alt="Screenshot_3" src="https://github.com/user-attachments/assets/67b33dc8-e68f-4771-b4c1-396888e48669" />
-<img width="1916" height="990" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ad46fcca-c65d-4dcb-8fe0-2831b3a6252c" />
+
 
